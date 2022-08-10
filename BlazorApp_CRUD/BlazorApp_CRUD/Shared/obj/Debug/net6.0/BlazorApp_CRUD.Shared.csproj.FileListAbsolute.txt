@@ -9,3 +9,4 @@ C:\Users\glauc\OneDrive-Microsoft\Documentos\Labs\BlazorApp_ConstruDelas\BlazorA
 C:\Users\glauc\OneDrive-Microsoft\Documentos\Labs\BlazorApp_ConstruDelas\BlazorApp_CRUD\BlazorApp_CRUD\Shared\obj\Debug\net6.0\BlazorApp_CRUD.Shared.dll
 C:\Users\glauc\OneDrive-Microsoft\Documentos\Labs\BlazorApp_ConstruDelas\BlazorApp_CRUD\BlazorApp_CRUD\Shared\obj\Debug\net6.0\ref\BlazorApp_CRUD.Shared.dll
 C:\Users\glauc\OneDrive-Microsoft\Documentos\Labs\BlazorApp_ConstruDelas\BlazorApp_CRUD\BlazorApp_CRUD\Shared\obj\Debug\net6.0\BlazorApp_CRUD.Shared.pdb
+C:\Users\glauc\OneDrive-Microsoft\Documentos\Labs\BlazorApp_ConstruDelas\BlazorApp_CRUD\BlazorApp_CRUD\Shared\obj\Debug\net6.0\BlazorApp_CRUD.Shared.csproj.AssemblyReference.cache

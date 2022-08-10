@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp_CRUD.Server", "BlazorApp_CRUD\Server\BlazorApp_CRUD.Server.csproj", "{915DB4E5-2BFF-4B78-99CC-F76353475B5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorApp_CRUD.Server", "BlazorApp_CRUD\Server\BlazorApp_CRUD.Server.csproj", "{915DB4E5-2BFF-4B78-99CC-F76353475B5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp_CRUD.Client", "BlazorApp_CRUD\Client\BlazorApp_CRUD.Client.csproj", "{3160043F-F945-4996-9F22-41BF956C91DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorApp_CRUD.Client", "BlazorApp_CRUD\Client\BlazorApp_CRUD.Client.csproj", "{3160043F-F945-4996-9F22-41BF956C91DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp_CRUD.Shared", "BlazorApp_CRUD\Shared\BlazorApp_CRUD.Shared.csproj", "{C59A0474-A6D8-43FF-B2D9-83A6F168721B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorApp_CRUD.Shared", "BlazorApp_CRUD\Shared\BlazorApp_CRUD.Shared.csproj", "{C59A0474-A6D8-43FF-B2D9-83A6F168721B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
