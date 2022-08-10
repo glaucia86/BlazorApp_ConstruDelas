@@ -1,9 +1,17 @@
+using BlazorApp_CRUD.Server.Interfaces;
+using BlazorApp_CRUD.Server.Models;
+using BlazorApp_CRUD.Server.Services;
 using Microsoft.AspNetCore.ResponseCompression;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<DatabaseContext>
+    (options =>
+        options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+builder.Services.AddTransient<IUser, UserManager>();
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 
@@ -22,13 +30,9 @@ else
 }
 
 app.UseHttpsRedirection();
-
 app.UseBlazorFrameworkFiles();
 app.UseStaticFiles();
-
 app.UseRouting();
-
-
 app.MapRazorPages();
 app.MapControllers();
 app.MapFallbackToFile("index.html");

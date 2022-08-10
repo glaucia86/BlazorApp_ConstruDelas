@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TTp0sHQkfTgCyI0ibJZyy5dxJPU1aZIPcLy086I6TTgy82IgNmVoPzaCmAufCsaefBU+VDmXyrlOv8xQq9f8gg==",
+  "dgSpecHash": "oNFY/m8uEhTw2ssiyqCGppP3QmIAbi4TCXIVPT+K4xLTi3UsSDhufywJH+f98Z5yIRbsIQi5G0zVnD0UTTMduQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\glauc\\OneDrive-Microsoft\\Documentos\\Labs\\BlazorApp_ConstruDelas\\BlazorApp_CRUD\\BlazorApp_CRUD\\Client\\BlazorApp_CRUD.Client.csproj",
   "expectedPackageFiles": [
@@ -33,7 +33,7 @@
     "C:\\Users\\glauc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\glauc\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\glauc\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\glauc\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.7\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.7.nupkg.sha512"
+    "C:\\Users\\glauc\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.8\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.8.nupkg.sha512"
   ],
   "logs": []
 }

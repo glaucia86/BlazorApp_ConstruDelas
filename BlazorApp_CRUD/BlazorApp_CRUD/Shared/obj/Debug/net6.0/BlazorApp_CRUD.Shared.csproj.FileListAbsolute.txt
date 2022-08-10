@@ -2,7 +2,6 @@ C:\Users\glauc\OneDrive-Microsoft\Documentos\Labs\BlazorApp_ConstruDelas\BlazorA
 C:\Users\glauc\OneDrive-Microsoft\Documentos\Labs\BlazorApp_ConstruDelas\BlazorApp_CRUD\BlazorApp_CRUD\Shared\bin\Debug\net6.0\BlazorApp_CRUD.Shared.dll
 C:\Users\glauc\OneDrive-Microsoft\Documentos\Labs\BlazorApp_ConstruDelas\BlazorApp_CRUD\BlazorApp_CRUD\Shared\bin\Debug\net6.0\ref\BlazorApp_CRUD.Shared.dll
 C:\Users\glauc\OneDrive-Microsoft\Documentos\Labs\BlazorApp_ConstruDelas\BlazorApp_CRUD\BlazorApp_CRUD\Shared\bin\Debug\net6.0\BlazorApp_CRUD.Shared.pdb
-C:\Users\glauc\OneDrive-Microsoft\Documentos\Labs\BlazorApp_ConstruDelas\BlazorApp_CRUD\BlazorApp_CRUD\Shared\obj\Debug\net6.0\BlazorApp_CRUD.Shared.csproj.AssemblyReference.cache
 C:\Users\glauc\OneDrive-Microsoft\Documentos\Labs\BlazorApp_ConstruDelas\BlazorApp_CRUD\BlazorApp_CRUD\Shared\obj\Debug\net6.0\BlazorApp_CRUD.Shared.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\glauc\OneDrive-Microsoft\Documentos\Labs\BlazorApp_ConstruDelas\BlazorApp_CRUD\BlazorApp_CRUD\Shared\obj\Debug\net6.0\BlazorApp_CRUD.Shared.AssemblyInfoInputs.cache
 C:\Users\glauc\OneDrive-Microsoft\Documentos\Labs\BlazorApp_ConstruDelas\BlazorApp_CRUD\BlazorApp_CRUD\Shared\obj\Debug\net6.0\BlazorApp_CRUD.Shared.AssemblyInfo.cs
