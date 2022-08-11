@@ -20,17 +20,21 @@ namespace BlazorApp_CRUD.Server.Models
             modelBuilder.Entity<User>(entity =>
             {
                 entity.ToTable("userdetails");
-                entity.Property(e => e.Userid).HasColumnName("Userid");
+                entity.HasKey(e => e.Userid);
                 entity.Property(e => e.Username)
+                    .HasColumnName("user_name")
                     .HasMaxLength(100)
                     .IsUnicode(false);
                 entity.Property(e => e.Address)
+                    .HasColumnName("address")
                     .HasMaxLength(500)
                     .IsUnicode(false);
                 entity.Property(e => e.Phonenumber)
+                    .HasColumnName("phone_number")
                     .HasMaxLength(50)
                     .IsUnicode(false);
                 entity.Property(e => e.Emailid)
+                    .HasColumnName("email_id")
                     .HasMaxLength(50)
                     .IsUnicode(false);
             });
